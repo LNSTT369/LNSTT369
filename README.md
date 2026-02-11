@@ -17,7 +17,7 @@
 
 💼 Currently developing **Atlas** - an AI-powered personal CFO agent for wealth management
 
-📊 Former proprietary trader with deep expertise in algorithmic trading and market analysis
+📊 Proprietary trader with deep expertise in algorithmic trading and market analysis
 
 🎵 DJ & Music Producer | 🎹 Classical Pianist | 🧘 Yoga Practitioner
 
