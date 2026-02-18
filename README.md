@@ -23,9 +23,9 @@
 
 <br/>
 
-| **ATLAS — AI PERSONAL CFO** | **SMART CONTRACT DCA** |
+| **ATLAS — AI PERSONAL CFO** | **TRANSFORMATION ARCHITECT** |
 | :--- | :--- |
-| <br/>**[Active Development]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**View Repository**](https://github.com/LNSTT369/Atlas--V1-V2-V3)<br/><br/> | <br/>**[Web3 / DeFi]**<br/>Dollar-Cost Averaging automation on Syndicate blockchain.<br/><br/>`Solidity` `Web3.js` `Ethereum`<br/><br/>[**View Repository**](https://github.com/LNSTT369/Atlas-Personal-Finance)<br/><br/> |
+| <br/>**[Active Development]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**View Repository**](https://github.com/LNSTT369/Atlas--V1-V2-V3) • [**Visit Here**](https://atlas-personal-finance.vercel.app/)<br/><br/> | <br/>**[Architecture / Systems]**<br/>Scalable architectural framework and transformation logic.<br/><br/>`TypeScript` `Python` `System Design`<br/><br/>[**View Repository**](https://github.com/LNSTT369/the-transformation-architect)<br/><br/> |
 
 | **ALGORITHMIC TRADING** | **VOICE AI AGENT** |
 | :--- | :--- |
@@ -51,20 +51,6 @@
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0a0a0a)
 ![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0a0a0a)
-
-</div>
-
-<br/>
-<br/>
-
-### A N A L Y T I C S
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LNSTT369&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=555555&text_color=888888" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNSTT369&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888" height="150" alt="languages graph" />
 
 </div>
 
