@@ -23,13 +23,13 @@
 
 <br/>
 
-| **ATLAS — AI PERSONAL CFO** | **TRANSFORMATION ARCHITECT** |
+| **ATLAS — Sovereign Wealth Management** | **TRANSFORMATION ARCHITECT** |
 | :--- | :--- |
-| <br/>**[Active Development]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**View Repository**](https://github.com/LNSTT369/Atlas--V1-V2-V3) • [**Visit Here**](https://atlas-personal-finance.vercel.app/)<br/><br/> | <br/>**[Architecture / Systems]**<br/>Scalable architectural framework and transformation logic.<br/><br/>`TypeScript` `Python` `System Design`<br/><br/>[**View Repository**](https://github.com/LNSTT369/the-transformation-architect)<br/><br/> |
+| <br/>**[Active Development]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**Visit Here**](https://atlas-personal-finance.vercel.app/)<br/><br/> | <br/>**[Architecture / Systems]**<br/>Scalable architectural framework and transformation logic.<br/><br/>`TypeScript` `Python` `System Design`<br/><br/>[**View Repository**](https://github.com/LNSTT369/the-transformation-architect)<br/><br/> |
 
 | **ALGORITHMIC TRADING** | **VOICE AI AGENT** |
 | :--- | :--- |
-| <br/>**[Proprietary]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**View Repository**](https://github.com/LNSTT369)<br/><br/> | <br/>**[Experimental]**<br/>Speech-to-text financial assistant using local LLMs.<br/><br/>`Python` `Whisper` `Claude`<br/><br/>[**View Repository**](https://github.com/LNSTT369)<br/><br/> |
+| <br/>**[Proprietary]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**View Repository**](https://github.com/ygwyg/MAHORAGA)<br/><br/> | <br/>**[Experimental]**<br/>Speech-to-text financial assistant using local LLMs.<br/><br/>`Python` `Whisper` `Claude`<br/><br/>[**View Repository**](https://github.com/LNSTT369)<br/><br/> |
 
 <br/>
 <br/>
