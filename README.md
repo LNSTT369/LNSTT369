@@ -29,7 +29,7 @@
 
 | **ALGORITHMIC TRADING** |
 | :--- |
-| <br/>**[Proprietary]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**View Repository**](https://github.com/ygwyg/MAHORAGA)<br/><br/> |
+| <br/>**[Proprietary]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**View Repository**](https://github.com/LNSTT369/NightWatcher.git)<br/><br/> |
 
 <br/>
 <br/>
