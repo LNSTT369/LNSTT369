@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/SHOWTIME-PORTFOLIO-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://showtime-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/SHOWTIME-PORTFOLIO-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://chiranjeevportfolio.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-CONNECT-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://linkedin.com/in/chiranjeevshah)
 [![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://x.com/showtimeshah)
 
