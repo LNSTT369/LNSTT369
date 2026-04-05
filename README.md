@@ -1,71 +1,96 @@
+```
++--------------------------------------------------+
+  LOC://GITHUB/LNSTT369/NODE_01
+  MEM: 640K OK
+  SYS: INITIALIZING PROFILE...
+  [MNEMOSYNE] RESTORING IDENTITY BLOCKS... [OK]
+  [NET.SYNC]  ALIGNING FATES.............. [OK]
+  [CORE.SYS]  WAKING MYTH ENGINE......... [OK]
++--------------------------------------------------+
+
+  >> YOU HAVE ACCESSED: CHIRANJEEV SHAH
+  >> CLASS: POLYMATH / CREATOR / BUILDER
+  >> STATUS: ACTIVE | BUILDING IN PUBLIC
+  >> DIRECTIVE: "I don't believe in limiting myself."
+
++--------------------------------------------------+
+```
+
+<br/>
+
 <div align="center">
 
-# C H I R A N J E E V &nbsp; S H A H
-
-### P O L Y M A T H &nbsp; / &nbsp; C R E A T O R &nbsp; / &nbsp; B U I L D E R
-
-<br/>
-
-"I don't believe in limiting myself to one discipline."
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/SHOWTIME-PORTFOLIO-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://chiranjeevportfolio.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-CONNECT-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://linkedin.com/in/chiranjeevshah)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://x.com/showtimeshah)
-
-<br/>
-<br/>
+[![Portfolio](https://img.shields.io/badge/%3E_SHOWTIME--PORTFOLIO-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://chiranjeevportfolio.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/%3E_LINKEDIN--REGISTRY-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://linkedin.com/in/chiranjeevshah)
+[![Twitter](https://img.shields.io/badge/%3E_TWITTER--SIGNAL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](https://x.com/showtimeshah)
 
 </div>
 
-### S E L E C T E D &nbsp; W O R K
+<br/>
+
+```
++---+---+---+---+---+---+---+---+---+---+---+---+
+  GUEST@CLUBWHATEVER™:~$ projects
+  > LOADING SELECTED WORK... [OK]
++---+---+---+---+---+---+---+---+---+---+---+---+
+```
 
 <br/>
 
 | **ATLAS — Sovereign Wealth Management** | **TRANSFORMATION ARCHITECT** |
 | :--- | :--- |
-| <br/>**[Active Development]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**Visit Here**](https://atlas-personal-finance.vercel.app/)<br/><br/> | <br/>**[Architecture / Systems]**<br/>Scalable architectural framework and transformation logic.<br/><br/>`TypeScript` `Python` `System Design`<br/><br/>[**View Repository**](https://github.com/LNSTT369/the-transformation-architect)<br/><br/> |
+| <br/>**[ACTIVE DEVELOPMENT]**<br/>Intelligent wealth management platform powered by Claude AI.<br/><br/>`Python` `TypeScript` `Next.js` `PostgreSQL`<br/><br/>[**> LAUNCH NODE**](https://atlas-personal-finance.vercel.app/)<br/><br/> | <br/>**[ARCHITECTURE / SYSTEMS]**<br/>Scalable architectural framework and transformation logic.<br/><br/>`TypeScript` `Python` `System Design`<br/><br/>[**> VIEW ARCHIVE**](https://github.com/LNSTT369/the-transformation-architect)<br/><br/> |
 
 | **ALGORITHMIC TRADING** |
 | :--- |
-| <br/>**[Proprietary]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**View Repository**](https://github.com/LNSTT369/NightWatcher.git)<br/><br/> |
+| <br/>**[PROPRIETARY]**<br/>Market analysis framework and automated execution systems.<br/><br/>`Python` `Pandas` `TA-Lib`<br/><br/>[**> ACCESS REPO**](https://github.com/LNSTT369/NightWatcher.git)<br/><br/> |
 
 <br/>
+
+```
++---+---+---+---+---+---+---+---+---+---+---+---+
+  GUEST@CLUBWHATEVER™:~$ expertise
+  > SCANNING SYSTEM CAPABILITIES... [OK]
++---+---+---+---+---+---+---+---+---+---+---+---+
+
+  01_  PYTHON          ████████████  PROFICIENT
+  02_  TYPESCRIPT      ██████████──  ADVANCED
+  03_  REACT / NEXT.JS █████████───  ADVANCED
+  04_  POSTGRESQL       ████████────  SOLID
+  05_  TRADING ALGOS   ████████████  ACTIVE DOMAIN
+  06_  AI / LLM OPS    ████████████  CORE DOMAIN
+  07_  SOLIDITY / EVM  ███████─────  DEVELOPING
+  08_  DOCKER / AWS    ████████────  OPERATIONAL
+  09_  TAILWIND CSS    █████████───  FLUENT
+
++---+---+---+---+---+---+---+---+---+---+---+---+
+```
+
 <br/>
 
-### E X P E R T I S E
+```
++---+---+---+---+---+---+---+---+---+---+---+---+
+  GUEST@CLUBWHATEVER™:~$ links
+  > ESTABLISHING CONNECTIONS... [OK]
++---+---+---+---+---+---+---+---+---+---+---+---+
+```
 
 <br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a)
-
-![Solidity](https://img.shields.io/badge/SOLIDITY-000000?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0a0a0a)
-![Ethereum](https://img.shields.io/badge/ETHEREUM-000000?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0a0a0a)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0a0a0a)
-![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0a0a0a)
+[**> EMAIL REGISTRY**](mailto:your.email@example.com) &nbsp;•&nbsp; [**> TOPMATE SESSION**](https://www.topmate.io/showtime/) &nbsp;•&nbsp; [**> SOUNDCLOUD ARCHIVE**](https://soundcloud.com/latenightwithshowtime)
 
 </div>
 
 <br/>
-<br/>
 
-<div align="center">
+```
++--------------------------------------------------+
+  [SYS.MSG]  SESSION ACTIVE
+  [NET.SYNC] FATES ALIGNED
+  [RUNTIME]  POLYMATH BY NATURE © 2026
 
-### L E T ' S &nbsp; C R E A T E &nbsp; S O M E T H I N G &nbsp; T O G E T H E R
-
-[**Email Me**](mailto:your.email@example.com) &nbsp; • &nbsp; [**Topmate**](https://www.topmate.io/showtime/) &nbsp; • &nbsp; [**SoundCloud**](https://soundcloud.com/latenightwithshowtime)
-
-<br/>
-<br/>
-
-<small>POLYMATH BY NATURE &copy; 2026</small>
-
-</div>
+  GUEST@CLUBWHATEVER™:~$ _
++--------------------------------------------------+
+```
